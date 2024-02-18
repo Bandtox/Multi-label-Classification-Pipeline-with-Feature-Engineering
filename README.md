@@ -47,6 +47,6 @@ The dataset used in this project contains various features (both numerical and c
 6. 
 ## Contributors
 
-- [Bandtox](https://github.com/johndoe)
+- [Bandtox](https://github.com/Bandtox)
 - [Kaushal Patil](https://github.com/kaushalpatil205)
 
