@@ -44,3 +44,9 @@ The dataset used in this project contains various features (both numerical and c
 3. Run the provided code cells or scripts to preprocess the data, train the model, make predictions, and generate output.
 4. Customize the code or parameters as needed for your specific use case.
 5. Explore the results, evaluate model performance, and make improvements as necessary.
+6. 
+## Contributors
+
+- [Bandtox](https://github.com/johndoe)
+- [Kaushal Patil](https://github.com/kaushalpatil205)
+
